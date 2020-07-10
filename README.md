@@ -1,8 +1,6 @@
 # Shellcode-In-Memory-Decoder
 
-A simple C implementation to decoded your shellcode and writes it directly to memory.
-
-You can use the code to perform process injection
+A simple C implementation to decoded your shellcode and writes it directly to memory, You can use this code to perform process injection.
 
 # Usage
 
